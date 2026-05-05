@@ -4,3 +4,7 @@ numpy
 scikit-learn
 opencv-python-headless
 Pillow
+plotly
+joblib
+scikit-image
+xgboost
